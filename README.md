@@ -1,6 +1,9 @@
+[![Build Status](https://dev.azure.com/NayakDevOpsDemo/NayakPipelineDemo/_apis/build/status/prashantnayak.pipelines-dotnet-core?branchName=master)](https://dev.azure.com/NayakDevOpsDemo/NayakPipelineDemo/_build/latest?definitionId=5?branchName=master)
+
 # Sample ASP.NET Core application for Azure Pipelines docs
 
-For information on how to use this repository, see [.NET Core](https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core).
+For information on how to use this repository, see [.NE
+T Core](https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core).
 
 | Example | Build status |
 |---------|--------------|
